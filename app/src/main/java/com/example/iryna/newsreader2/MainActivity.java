@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
     ArrayList<String> urls = new ArrayList<String>();
     ArrayList<String> content = new ArrayList<String>();
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
